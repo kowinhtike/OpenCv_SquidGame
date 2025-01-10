@@ -29,7 +29,7 @@ SquidGame/ ├── images/ │ ├── back.png # Doll back image │ ├─
 Install dependencies using:
 ```bash
 pip install opencv-python pygame
-
+```
 Notes 📝
 The game uses the default webcam for motion detection.
 Ensure proper lighting and a stable camera position for better performance.
