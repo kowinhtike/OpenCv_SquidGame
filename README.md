@@ -2,6 +2,16 @@
 
 A computer vision-based interactive game inspired by the popular "Squid Game." This project uses OpenCV, Pygame, and motion detection to replicate the "Red Light, Green Light" game.
 
+## Gameplay Preview 🎥
+
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img src="images/green light.png" alt="Front-facing doll" width="300" />
+  <img src="images/red light.png" alt="Back-facing doll" width="300" />
+</div>
+
+---
+
+
 ## 🚀 Features
 - **Green Light, Red Light Phases**: Detect player motion and eliminate them if they move during the red light.
 - **Face Detection**: Highlights detected faces with a hologram-like effect.
