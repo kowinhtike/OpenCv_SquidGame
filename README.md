@@ -35,3 +35,6 @@ pip install opencv-python pygame
 - Ensure proper lighting and a stable camera position for better performance.
 - This code is optimized for Windows due to the winsound dependency.
 - I develop this project in PycharmIDE
+
+## Disclaimer ⚠️
+- This project is for educational purposes only and is not affiliated with or endorsed by Netflix or Squid Game.
